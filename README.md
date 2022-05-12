@@ -10,7 +10,7 @@ In this study, we will focus on:
 
 2 - Evaluating different classification models and providing our recommendations on which models could perform well when predicting if the film could be a success or not
 
-“TMDB 5000 Movie Dataset” from Kaggle.
+We obtained “TMDB 5000 Movie Dataset” from Kaggle.
 It includes 4803 movies released from 1916 to 2017.
 The raw data contains 20 Variables: 
 
